@@ -178,6 +178,12 @@
             "content": "<p>Wij streven er naar om onze werkprocessen ecologischer te maken. Klimaatverandering blijft een grote uitdaging en wij dragen graag ons steentje bij.</p>",
             "page": ""
           }
+        },
+        "custom_QpJD9c": {
+          "type": "custom",
+          "settings": {
+            "code": "<h4>Custom code block</h4><p>Use this advanced section to add custom HTML, app scripts, or liquid.</p>"
+          }
         }
       },
       "block_order": [
@@ -204,7 +210,8 @@
         "tab",
         "6fbafccd-e300-4684-a364-9c3fb056e3f9",
         "befcce6d-f190-48d0-8d20-6d122074ac1f",
-        "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e"
+        "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e",
+        "custom_QpJD9c"
       ],
       "custom_css": [
         ".badge {display: none;}"
