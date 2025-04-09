@@ -240,6 +240,49 @@
         "product_video_style": "muted"
       }
     },
+    "text_with_icons_6gAVjN": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_MyxmRp": {
+          "type": "text_block",
+          "settings": {
+            "icon": "shield",
+            "title": "",
+            "text": "<p>Betaal veilig met elke Bank (iDeal, Paypal, Bancontact en Creditcard (Visa, MasterCard, American Express en Maestro).</p>"
+          }
+        },
+        "text_block_4F6GGg": {
+          "type": "text_block",
+          "settings": {
+            "icon": "calendar",
+            "title": "",
+            "text": "<p>Niet tevreden? Geen zorgen, bij Resora heb je de mogelijkheid om tot 60 dagen jouw pakket te retourneren. </p>"
+          }
+        },
+        "text_block_HK9nhQ": {
+          "type": "text_block",
+          "settings": {
+            "icon": "truck",
+            "title": "",
+            "text": "<p>Wij betalen de verzendkosten, zo zit jij niet opgescheept met extra kosten. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_MyxmRp",
+        "text_block_4F6GGg",
+        "text_block_HK9nhQ"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
     "41b75bbb-8c34-4dbf-8a6b-bfb03ca94d34": {
       "type": "background-image-text",
       "disabled": true,
@@ -273,6 +316,7 @@
     },
     "3d8cbd23-153b-4970-9ecb-7f3332b05c60": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image_mask": "none",
         "image2_mask": "none",
@@ -630,6 +674,7 @@
   },
   "order": [
     "main",
+    "text_with_icons_6gAVjN",
     "41b75bbb-8c34-4dbf-8a6b-bfb03ca94d34",
     "6d97ddc6-c989-459f-80bb-f7f81d55b37e",
     "3d8cbd23-153b-4970-9ecb-7f3332b05c60",
