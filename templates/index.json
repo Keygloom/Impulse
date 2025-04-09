@@ -96,10 +96,9 @@
     },
     "featured-collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "BESTSELLERS VROUWEN",
-        "home_featured_products": "bestsellers-2",
+        "home_featured_products": "accessoires",
         "per_row": 3,
         "rows": 1,
         "mobile_scrollable": true,
