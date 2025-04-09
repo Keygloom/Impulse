@@ -65,6 +65,7 @@
         "heading",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -73,6 +74,7 @@
     },
     "3af7d296-2edb-4027-8a28-7b44e39c1b8f": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image_mask": "square",
         "image2_mask": "square",
@@ -94,7 +96,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Bestsellers vrouwen",
+        "title": "BESTSELLERS VROUWEN",
         "home_featured_products": "bestsellers-2",
         "per_row": 4,
         "rows": 1,
@@ -117,7 +119,7 @@
     "580bc108-8f79-4c00-b080-103cccb091ef": {
       "type": "featured-collection",
       "settings": {
-        "title": "Bestsellers mannen",
+        "title": "BESTSELLERS MANNEN",
         "home_featured_products": "manner",
         "per_row": 4,
         "rows": 1,
@@ -203,6 +205,71 @@
         "lazyload_images": true
       }
     },
+    "background_image_text_4GyRpJ": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Meer dan 12.000+",
+        "title": "Tevreden Klanten",
+        "text": "<p>Wij zijn er trots op dat we al meer dan 12.000+ tevreden klanten hebben mogen bedienen, die stuk voor stuk plezier en zelfvertrouwen vinden in onze producten.</p>",
+        "button_label": "",
+        "button_link": "",
+        "layout": "left",
+        "height": 550,
+        "framed": true,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "featured_collections_hHRfMM": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_VC4rax": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_jkGBJW": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_GQHhH8": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_WP6N64": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection_VC4rax",
+        "collection_jkGBJW",
+        "collection_GQHhH8",
+        "collection_WP6N64"
+      ],
+      "settings": {
+        "title": "ASSORTIMENT 2025",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
     "974e4b1e-383b-4712-abad-44cfeb85e568": {
       "type": "slideshow",
       "blocks": {
@@ -235,22 +302,6 @@
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
-    "background_image_text_4GyRpJ": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Meer dan 12.000+",
-        "title": "Tevreden Klanten",
-        "text": "<p>Wij zijn er trots op dat we al meer dan 12.000+ tevreden klanten hebben mogen bedienen, die stuk voor stuk plezier en zelfvertrouwen vinden in onze producten.</p>",
-        "button_label": "",
-        "button_link": "",
-        "layout": "left",
-        "height": 550,
-        "framed": true,
-        "parallax": true,
-        "parallax_direction": "top",
         "lazyload_images": true
       }
     },
@@ -324,14 +375,14 @@
         "template--19285363753298__9640169b-14c8-476e-9b97-547fdd8772fc-16894322269518c2c1-0": {
           "type": "title",
           "settings": {
-            "title": "Get the latest trends and discounts",
+            "title": "Mis niks, kortingen, de laatste trends en updates",
             "heading_size": "h2"
           }
         },
         "template--19285363753298__9640169b-14c8-476e-9b97-547fdd8772fc-16894322269518c2c1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Sign in and get the latest trends and updates</p>"
+            "text": "<p>Schrijf je in en ontvang mails waar je écht wat aan hebt</p>"
           }
         },
         "template--19285363753298__9640169b-14c8-476e-9b97-547fdd8772fc-16894322269518c2c1-2": {
@@ -354,55 +405,6 @@
         "top_padding": true,
         "bottom_padding": true
       }
-    },
-    "featured_collections_hHRfMM": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_VC4rax": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "collection_jkGBJW": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "collection_GQHhH8": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "collection_WP6N64": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "collection_VC4rax",
-        "collection_jkGBJW",
-        "collection_GQHhH8",
-        "collection_WP6N64"
-      ],
-      "settings": {
-        "title": "Assortiment 2025",
-        "divider": false,
-        "per_row": 4,
-        "enable_gutter": true
-      }
     }
   },
   "order": [
@@ -415,10 +417,10 @@
     "723a8f77-4c0d-4ef9-86de-d888090c48de",
     "32a99c62-e8f3-4b9d-afcd-d1543f4f73ee",
     "fc773646-0206-460f-a860-ec2b4a87f088",
-    "974e4b1e-383b-4712-abad-44cfeb85e568",
     "background_image_text_4GyRpJ",
+    "featured_collections_hHRfMM",
+    "974e4b1e-383b-4712-abad-44cfeb85e568",
     "3a7043b2-b960-4ba8-b429-94303cb61936",
-    "9640169b-14c8-476e-9b97-547fdd8772fc",
-    "featured_collections_hHRfMM"
+    "9640169b-14c8-476e-9b97-547fdd8772fc"
   ]
 }
