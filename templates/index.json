@@ -96,6 +96,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "BESTSELLERS VROUWEN",
         "home_featured_products": "bestsellers-2",
@@ -248,6 +249,7 @@
         "collection_VC4rax",
         "collection_jkGBJW"
       ],
+      "disabled": true,
       "settings": {
         "title": "ASSORTIMENT 2025",
         "divider": false,
