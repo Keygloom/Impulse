@@ -99,7 +99,7 @@
       "settings": {
         "title": "BESTSELLERS VROUWEN",
         "home_featured_products": "bestsellers-2",
-        "per_row": 4,
+        "per_row": 3,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
@@ -119,6 +119,7 @@
     },
     "580bc108-8f79-4c00-b080-103cccb091ef": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "BESTSELLERS MANNEN",
         "home_featured_products": "manner",
