@@ -363,6 +363,28 @@
         "lazyload_images": true
       }
     },
+    "text_and_image_GYtEN9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Ontwerp_zonder_titel_-_2025-04-09T195958.076.png",
+        "image_mask": "none",
+        "image2": "shopify://shop_images/ChatGPT_Image_9_apr_2025_20_58_22.png",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Waarom kiezen voor Resora?",
+        "text": "<p><br/>Bij <strong>Resora</strong> draait alles om moderne luxe en tijdloze elegantie. Onze collectie bestaat uit hoogwaardige kleding die jouw persoonlijke stijl versterkt. Met oog voor detail en een passie voor vakmanschap creëren we stukken die niet alleen stijlvol zijn, maar ook comfortabel en duurzaam. Ontdek de wereld van <strong>Resora</strong> en laat je inspireren door onze verfijnde en veelzijdige ontwerpen.<br/><br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
@@ -680,6 +702,7 @@
     "3d8cbd23-153b-4970-9ecb-7f3332b05c60",
     "sub",
     "text-and-image2",
+    "text_and_image_GYtEN9",
     "testimonials",
     "product-recommendations",
     "recently-viewed",
