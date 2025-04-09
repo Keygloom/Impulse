@@ -230,7 +230,7 @@
         "collection_VC4rax": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "dames",
             "title": "",
             "focal_point": "center center"
           }
@@ -242,34 +242,16 @@
             "title": "",
             "focal_point": "center center"
           }
-        },
-        "collection_GQHhH8": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
-        },
-        "collection_WP6N64": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
         "collection_VC4rax",
-        "collection_jkGBJW",
-        "collection_GQHhH8",
-        "collection_WP6N64"
+        "collection_jkGBJW"
       ],
       "settings": {
         "title": "ASSORTIMENT 2025",
         "divider": false,
-        "per_row": 4,
+        "per_row": 2,
         "enable_gutter": true
       }
     },
