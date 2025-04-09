@@ -19,6 +19,12 @@
             "code": "{% render 'kopstorm-snippet-2' %}"
           }
         },
+        "custom_QpJD9c": {
+          "type": "custom",
+          "settings": {
+            "code": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"20\" height=\"15\" aria-hidden=\"true\">\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n                      </svg>Nog 11 op voorraad</p>"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -178,16 +184,11 @@
             "content": "<p>Wij streven er naar om onze werkprocessen ecologischer te maken. Klimaatverandering blijft een grote uitdaging en wij dragen graag ons steentje bij.</p>",
             "page": ""
           }
-        },
-        "custom_QpJD9c": {
-          "type": "custom",
-          "settings": {
-            "code": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"20\" height=\"15\" aria-hidden=\"true\">\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n                      </svg>Op voorraad</p>"
-          }
         }
       },
       "block_order": [
         "d96502fe-65de-478e-8671-66d784e17eed",
+        "custom_QpJD9c",
         "price",
         "1d232ef7-95ed-4df2-bc2a-0227ec416065",
         "sales_point",
@@ -210,8 +211,7 @@
         "tab",
         "6fbafccd-e300-4684-a364-9c3fb056e3f9",
         "befcce6d-f190-48d0-8d20-6d122074ac1f",
-        "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e",
-        "custom_QpJD9c"
+        "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e"
       ],
       "custom_css": [
         ".badge {display: none;}"
