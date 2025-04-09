@@ -38,6 +38,7 @@
         },
         "sales_point": {
           "type": "sales_point",
+          "disabled": true,
           "settings": {
             "icon": "truck",
             "text": "Free shipping"
@@ -45,6 +46,7 @@
         },
         "b801b248-619b-4251-9575-12d9e4cdaca0": {
           "type": "sales_point",
+          "disabled": true,
           "settings": {
             "icon": "shield",
             "text": "Pay safely with Creditcard or Paypal"
@@ -52,6 +54,7 @@
         },
         "57bb83ff-5707-44e2-890a-b99b17e9d787": {
           "type": "sales_point",
+          "disabled": true,
           "settings": {
             "icon": "heart",
             "text": "30 Days Money-Back Guarantee"
