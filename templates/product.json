@@ -19,15 +19,22 @@
             "code": "{% render 'kopstorm-snippet-2' %}"
           }
         },
-        "custom_QpJD9c": {
-          "type": "custom",
+        "sales_point_3XxafB": {
+          "type": "sales_point",
           "settings": {
-            "code": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"20\" height=\"15\" aria-hidden=\"true\">\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n                      </svg>Nog 11 op voorraad</p>"
+            "icon": "checkmark",
+            "text": "★★★★★ 4,6 - (32) geverifieerde recensies"
           }
         },
         "price": {
           "type": "price",
           "settings": {}
+        },
+        "custom_QpJD9c": {
+          "type": "custom",
+          "settings": {
+            "code": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"20\" height=\"15\" aria-hidden=\"true\">\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n                      </svg>Nog 11 op voorraad</p>"
+          }
         },
         "1d232ef7-95ed-4df2-bc2a-0227ec416065": {
           "type": "custom",
@@ -87,7 +94,7 @@
           "type": "inventory_status",
           "disabled": true,
           "settings": {
-            "inventory_threshold": 0,
+            "inventory_threshold": 16,
             "inventory_transfers_enable": true
           }
         },
@@ -191,8 +198,9 @@
       },
       "block_order": [
         "d96502fe-65de-478e-8671-66d784e17eed",
-        "custom_QpJD9c",
+        "sales_point_3XxafB",
         "price",
+        "custom_QpJD9c",
         "1d232ef7-95ed-4df2-bc2a-0227ec416065",
         "sales_point",
         "b801b248-619b-4251-9575-12d9e4cdaca0",
