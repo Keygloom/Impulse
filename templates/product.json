@@ -30,12 +30,6 @@
           "type": "price",
           "settings": {}
         },
-        "custom_QpJD9c": {
-          "type": "custom",
-          "settings": {
-            "code": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"20\" height=\"15\" aria-hidden=\"true\">\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n                      </svg>Nog 11 op voorraad</p>"
-          }
-        },
         "1d232ef7-95ed-4df2-bc2a-0227ec416065": {
           "type": "custom",
           "disabled": true,
@@ -43,28 +37,31 @@
             "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Text Styling Example</title>\n    <style>\n        .lightly-spaced-row {\n            display: flex;\n            justify-content: space-between;\n            margin-bottom: 20px; /* Adjust margin as needed */\n        }\n\n        .product-info-block {\n            display: flex;\n            align-items: center;\n            background-color: var(--box-color, #eafbe5); /* Lighter green background */\n            color: var(--box-text-color, #397F08); /* Darker green text color */\n            padding: 10px;\n            border-radius: 8px; /* Slightly more rounded edges */\n        }\n\n        .with-icon {\n            display: flex;\n            align-items: center;\n        }\n\n        .with-icon__beside {\n            margin-left: 10px; /* Adjust margin as needed */\n        }\n    </style>\n</head>\n<body>\n\n    <div class=\"lightly-spaced-row\">\n        <div class=\"product-info-block with-icon text-box\" style=\"--box-color: #b2e89d; --box-text-color: #397F08;\">\n            <svg class=\"icon icon--small icon--type-price_tag\" stroke-width=\"1\" aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\">\n                <path fill=\"currentColor\" d=\"M7.59 1.34a1 1 0 01.7-.29h5.66a1 1 0 011 1v5.66a1 1 0 01-.3.7L7.6 15.5a1 1 0 01-1.42 0L.52 9.83a1 1 0 010-1.42l7.07-7.07zm6.36 6.37l-7.07 7.07-5.66-5.66L8.3 2.05h5.66v5.66z\" fill-rule=\"evenodd\"></path>\n                <path fill=\"currentColor\" d=\"M9.7 6.3a1 1 0 101.42-1.42 1 1 0 00-1.41 1.41zM9 7a2 2 0 102.83-2.83A2 2 0 009 7z\" fill-rule=\"evenodd\"></path>\n            </svg>\n            <span class=\"with-icon__beside\"><b> SUMMER SALE ENDS TODAY</b></span>\n        </div>\n    </div>\n\n</body>\n</html>"
           }
         },
+        "custom_QpJD9c": {
+          "type": "custom",
+          "settings": {
+            "code": "<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\"><svg width=\"20\" height=\"15\" aria-hidden=\"true\">\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(62,214,96, 0.3)\"></circle>\n                        <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(62,214,96)\"></circle>\n                      </svg>Nog 11 op voorraad</p>"
+          }
+        },
         "sales_point": {
           "type": "sales_point",
-          "disabled": true,
           "settings": {
             "icon": "truck",
-            "text": "Free shipping"
+            "text": "Gratis verzending binnen NL en BE"
           }
         },
         "b801b248-619b-4251-9575-12d9e4cdaca0": {
           "type": "sales_point",
-          "disabled": true,
           "settings": {
             "icon": "shield",
-            "text": "Pay safely with Creditcard or Paypal"
+            "text": "Betaal veilig met iDeal, Bancontact en Paypal"
           }
         },
         "57bb83ff-5707-44e2-890a-b99b17e9d787": {
           "type": "sales_point",
-          "disabled": true,
           "settings": {
-            "icon": "heart",
-            "text": "30 Days Money-Back Guarantee"
+            "icon": "kopstorm-1",
+            "text": "60 dagen retourgarantie"
           }
         },
         "9138406b-8d13-4499-973b-b70daca3a994": {
@@ -73,6 +70,11 @@
           "settings": {
             "code": "{% render 'kopstorm-snippet-1' %}"
           }
+        },
+        "quantity_selector_PAVEYd": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
         },
         "a87f6976-fdca-403c-9377-eb85cc84bccd": {
           "type": "variant_picker",
@@ -200,12 +202,13 @@
         "d96502fe-65de-478e-8671-66d784e17eed",
         "sales_point_3XxafB",
         "price",
-        "custom_QpJD9c",
         "1d232ef7-95ed-4df2-bc2a-0227ec416065",
+        "custom_QpJD9c",
         "sales_point",
         "b801b248-619b-4251-9575-12d9e4cdaca0",
         "57bb83ff-5707-44e2-890a-b99b17e9d787",
         "9138406b-8d13-4499-973b-b70daca3a994",
+        "quantity_selector_PAVEYd",
         "a87f6976-fdca-403c-9377-eb85cc84bccd",
         "8a3e0ff0-088b-41d3-9b3e-68853e349f7d",
         "inventory_status",
