@@ -165,16 +165,16 @@
         "tab": {
           "type": "tab",
           "settings": {
-            "title": "Gratis verzending",
-            "content": "<p>Omdat wij het belangrijk vinden om de kosten zo laag mogelijk te houden voor u, bieden wij altijd gratis levering aan binnen Nederland en België.</p>",
+            "title": "Verzending & Retourneren",
+            "content": "<ul><li>Altijd g<strong>ratis verzending</strong></li><li>Binnen <strong>24 uur</strong> verzonden</li><li><strong>60 dagen</strong> retourgarantie</li></ul>",
             "page": ""
           }
         },
         "6fbafccd-e300-4684-a364-9c3fb056e3f9": {
           "type": "tab",
           "settings": {
-            "title": "30 dagen retourneren",
-            "content": "<p>Het kan natuurlijk voorkomen dat u niet de juiste maat hebt ontvangen of dat het niet helemaal naar wens is. Geen zorgen! Binnen 30 dagen kunt u uw retour aanmelden.</p>",
+            "title": "Maat",
+            "content": "<p>Al onze kledingstukken zijn gemaakt op basis van standaardmaten. We raden je aan<strong>1 maat</strong>groter te nemen voor een betere pasvorm. Bij sommige producten vind je nauwkeurige maatinformatie<strong>direct onder de productprijs</strong>als je op<strong>“Maattabel”</strong>klikt.</p>",
             "page": ""
           }
         },
