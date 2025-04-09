@@ -162,19 +162,19 @@
             "is_tab": true
           }
         },
-        "tab": {
-          "type": "tab",
-          "settings": {
-            "title": "Verzending & Retourneren",
-            "content": "<ul><li>Altijd g<strong>ratis verzending</strong></li><li>Binnen <strong>24 uur</strong> verzonden</li><li><strong>60 dagen</strong> retourgarantie</li></ul>",
-            "page": ""
-          }
-        },
         "6fbafccd-e300-4684-a364-9c3fb056e3f9": {
           "type": "tab",
           "settings": {
             "title": "Maat",
             "content": "<p>Al onze kledingstukken zijn gemaakt op basis van standaardmaten. We raden je aan<strong>1 maat</strong>groter te nemen voor een betere pasvorm. Bij sommige producten vind je nauwkeurige maatinformatie<strong>direct onder de productprijs</strong>als je op<strong>“Maattabel”</strong>klikt.</p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Verzending & Retourneren",
+            "content": "<ul><li>Altijd g<strong>ratis verzending</strong></li><li>Binnen <strong>24 uur</strong> verzonden</li><li><strong>60 dagen</strong> retourgarantie</li></ul>",
             "page": ""
           }
         },
@@ -219,8 +219,8 @@
         "2a785fde-5a00-4dde-a57b-8332d1dd5ac1",
         "ea05bd8c-ce3b-4efc-9331-8543471e68d9",
         "description",
-        "tab",
         "6fbafccd-e300-4684-a364-9c3fb056e3f9",
+        "tab",
         "befcce6d-f190-48d0-8d20-6d122074ac1f",
         "f9420f3c-75d6-4aa6-96b3-4ed76131dc4e"
       ],
