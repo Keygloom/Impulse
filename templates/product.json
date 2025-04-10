@@ -418,12 +418,22 @@
             "author": "Noa B.",
             "author_info": "Eindhoven, NL"
           }
+        },
+        "testimonial_wBJRtg": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Fijne stof! Echt zo'n stof waar je niet in zweet, maar dat wel gewoon heel chill zit.</p>",
+            "author": "Aisha Y.",
+            "author_info": "Amsterdam, NL"
+          }
         }
       },
       "block_order": [
         "testimonials-0",
         "testimonials-1",
-        "testimonials-2"
+        "testimonials-2",
+        "testimonial_wBJRtg"
       ],
       "settings": {
         "title": "Geverifieerde recensies",
