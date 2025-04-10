@@ -706,6 +706,23 @@
         "padding-bottom-mobile": 30,
         "bg-color": "#fceadc"
       }
+    },
+    "background_image_text_kyTqpU": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/Ontwerp_zonder_titel_-_2025-04-09T152359.889.png",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -728,6 +745,7 @@
     "4a69eebf-0a76-47de-b64e-6b82092ad18a",
     "b7056d86-a266-4828-b833-1cfb3c043a2e",
     "alireviews-section-0c803c51-d08e-4ab8-8d02-592693af8e0d",
-    "b2122939-4ef2-4f2b-8682-cfc84e403780"
+    "b2122939-4ef2-4f2b-8682-cfc84e403780",
+    "background_image_text_kyTqpU"
   ]
 }
