@@ -42,7 +42,9 @@
         },
         "footer-0": {
           "type": "logo_social",
+          "disabled": true,
           "settings": {
+            "logo": "shopify://shop_images/anno_2023_3.png",
             "desktop_logo_height": 50,
             "container_width": 95
           }
@@ -59,7 +61,7 @@
         "show_currency_selector": true,
         "show_currency_flags": true,
         "show_payment_icons": false,
-        "show_copyright": false,
+        "show_copyright": true,
         "copyright_text": ""
       }
     },
