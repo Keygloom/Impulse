@@ -134,8 +134,15 @@
             "show_gift_card_recipient": false
           }
         },
+        "seoant_trust_badges_star_rating_aN3VAP": {
+          "type": "shopify://apps/seoant-trust-badges/blocks/star_rating/f42f2346-5d14-4b41-a8b9-4b6ee352262e",
+          "settings": {
+            "badge_id": ""
+          }
+        },
         "6e9d50af-daf3-45e6-bbf7-86074eaab518": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "code": "{% render 'kopstorm-snippet-5' %}"
           }
@@ -217,6 +224,7 @@
         "9b703068-bdd0-4bfc-a732-e36be21f2ceb",
         "19f1b911-4a9b-40ed-87cb-7fde991e2f0e",
         "buy_buttons",
+        "seoant_trust_badges_star_rating_aN3VAP",
         "6e9d50af-daf3-45e6-bbf7-86074eaab518",
         "96b83f82-620c-40bd-9edc-1f712a029879",
         "2a785fde-5a00-4dde-a57b-8332d1dd5ac1",
