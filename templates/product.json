@@ -82,7 +82,7 @@
             "variant_labels": true,
             "picker_type": "button",
             "product_dynamic_variants_enable": true,
-            "color_swatches": false
+            "color_swatches": true
           }
         },
         "8a3e0ff0-088b-41d3-9b3e-68853e349f7d": {
