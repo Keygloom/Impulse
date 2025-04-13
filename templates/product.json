@@ -162,7 +162,7 @@
         "ea05bd8c-ce3b-4efc-9331-8543471e68d9": {
           "type": "custom",
           "settings": {
-            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Text Styling Example</title>\n    <style>\n        .custom-container {\n            background-color: #FBEAE5; /* Light red background */\n            color: #D45353; /* Red text color */\n            padding: 10px; /* Add padding for better visibility */\n            border-radius: 4px; /* Slightly rounded edges */\n            font-weight: bold;\n        }\n    </style>\n</head>\n<body>\n\n    <div class=\"custom-container\">\n        UPDATE: Door veel vraag zijn er nog maar 11 producten over voor deze prijs! Bedankt voor het vertrouwen  en de support!\n    </div>\n\n</body>\n</html>"
+            "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Text Styling Example</title>\n    <style>\n        .custom-container {\n            background-color: #FBEAE5; /* Light red background */\n            color: #D45353; /* Red text color */\n            padding: 10px; /* Add padding for better visibility */\n            border-radius: 4px; /* Slightly rounded edges */\n            font-weight: bold;\n        }\n    </style>\n</head>\n<body>\n\n    <div class=\"custom-container\">\n        UPDATE: Door veel vraag zijn er nog maar 31 producten over voor deze prijs! Bedankt voor het vertrouwen  en de support!\n    </div>\n\n</body>\n</html>"
           }
         },
         "description": {
