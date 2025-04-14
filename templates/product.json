@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "custom_nL4ATX": {
+          "type": "custom",
+          "settings": {
+            "code": "<style>\n  .trustpilot-wrapper {\n    display: flex;\n    align-items: center;\n    font-family: Century Gothic, sans-serif;\n    font-size: 35px;\n    color: #333;\n    gap: 8px;\n  }\n\n  .tp-stars {\n    display: flex;\n  }\n\n  .tp-star {\n    width: 24px;\n    height: 24px;\n    background-color: #00b67a;\n    clip-path: polygon(\n      50% 0%,\n      61% 35%,\n      98% 35%,\n      68% 57%,\n      79% 91%,\n      50% 70%,\n      21% 91%,\n      32% 57%,\n      2% 35%,\n      39% 35%\n    );\n    margin-right: 2px;\n  }\n\n  .tp-star.half {\n    background: linear-gradient(\n      to right,\n      #00b67a 50%,\n      #dcdce6 50%\n    );\n  }\n\n  .tp-reviews {\n    font-size: 15px;\n    color: #333;\n  }\n</style>\n\n<div class=\"trustpilot-wrapper\">\n  <div class=\"tp-stars\">\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star half\"></div>\n  </div>\n  <div class=\"tp-reviews\">\n    (341+ Trustpilot reviews)\n  </div>\n</div>"
+          }
+        },
         "d96502fe-65de-478e-8671-66d784e17eed": {
           "type": "custom",
           "disabled": true,
@@ -21,6 +27,7 @@
         },
         "sales_point_3XxafB": {
           "type": "sales_point",
+          "disabled": true,
           "settings": {
             "icon": "checkmark",
             "text": "★★★★★ 4,6 - (32) geverifieerde recensies"
@@ -206,6 +213,7 @@
         }
       },
       "block_order": [
+        "custom_nL4ATX",
         "d96502fe-65de-478e-8671-66d784e17eed",
         "sales_point_3XxafB",
         "price",
