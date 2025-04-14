@@ -15,7 +15,7 @@
         "custom_nL4ATX": {
           "type": "custom",
           "settings": {
-            "code": "<style>\n  .trustpilot-wrapper {\n    display: flex;\n    align-items: center;\n    font-family: Century Gothic, sans-serif;\n    font-size: 35px;\n    color: #333;\n    gap: 8px;\n  }\n\n  .tp-stars {\n    display: flex;\n  }\n\n  .tp-star {\n    width: 24px;\n    height: 24px;\n    background-color: #00b67a;\n    clip-path: polygon(\n      50% 0%,\n      61% 35%,\n      98% 35%,\n      68% 57%,\n      79% 91%,\n      50% 70%,\n      21% 91%,\n      32% 57%,\n      2% 35%,\n      39% 35%\n    );\n    margin-right: 2px;\n  }\n\n  .tp-star.half {\n    background: linear-gradient(\n      to right,\n      #00b67a 50%,\n      #dcdce6 50%\n    );\n  }\n\n  .tp-reviews {\n    font-size: 15px;\n    color: #333;\n  }\n</style>\n\n<div class=\"trustpilot-wrapper\">\n  <div class=\"tp-stars\">\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star half\"></div>\n  </div>\n  <div class=\"tp-reviews\">\n    (341+ Trustpilot reviews)\n  </div>\n</div>"
+            "code": "<style>\n  .trustpilot-wrapper {\n    display: flex;\n    align-items: center;\n    font-family: Century Gothic, sans-serif;\n    font-size: 35px;\n    color: #333;\n    gap: 8px;\n  }\n\n  .tp-stars {\n    display: flex;\n  }\n\n  .tp-star {\n    width: 24px;\n    height: 24px;\n    background-color: #00b67a;\n    clip-path: polygon(\n      50% 0%,\n      61% 35%,\n      98% 35%,\n      68% 57%,\n      79% 91%,\n      50% 70%,\n      21% 91%,\n      32% 57%,\n      2% 35%,\n      39% 35%\n    );\n    margin-right: 2px;\n  }\n\n  .tp-star.half {\n    background: linear-gradient(\n      to right,\n      #00b67a 50%,\n      #dcdce6 50%\n    );\n  }\n\n  .tp-reviews {\n    font-size: 15px;\n    color: #333;\n  }\n</style>\n\n<div class=\"trustpilot-wrapper\">\n  <div class=\"tp-stars\">\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star\"></div>\n    <div class=\"tp-star half\"></div>\n  </div>\n  <div class=\"tp-reviews\">\n    (742+ Trustpilot reviews)\n  </div>\n</div>"
           }
         },
         "d96502fe-65de-478e-8671-66d784e17eed": {
@@ -738,6 +738,38 @@
         "parallax_direction": "top",
         "lazyload_images": true
       }
+    },
+    "trustpilot_slider_krNiDR": {
+      "type": "trustpilot-slider",
+      "settings": {
+        "title-1": "Lovely company",
+        "review-1": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-1": "Iris Peeters",
+        "title-2": "Lovely company",
+        "review-2": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-2": "Iris Peeters",
+        "title-3": "Lovely company",
+        "review-3": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-3": "Iris Peeters",
+        "title-4": "Lovely company",
+        "review-4": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-4": "Iris Peeters",
+        "title-5": "Lovely company",
+        "review-5": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-5": "Iris Peeters",
+        "title-6": "Lovely company",
+        "review-6": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-6": "Iris Peeters",
+        "title-7": "Lovely company",
+        "review-7": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-7": "Iris Peeters",
+        "title-8": "Lovely company",
+        "review-8": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-8": "Iris Peeters",
+        "title-9": "Lovely company",
+        "review-9": "Great products, lovely packaging, fast delivery. Nothing but nice things to say about Dore & Rose!",
+        "name-9": "Iris Peeters"
+      }
     }
   },
   "order": [
@@ -761,6 +793,7 @@
     "b7056d86-a266-4828-b833-1cfb3c043a2e",
     "alireviews-section-0c803c51-d08e-4ab8-8d02-592693af8e0d",
     "b2122939-4ef2-4f2b-8682-cfc84e403780",
-    "background_image_text_kyTqpU"
+    "background_image_text_kyTqpU",
+    "trustpilot_slider_krNiDR"
   ]
 }
