@@ -404,6 +404,38 @@
         "lazyload_images": true
       }
     },
+    "trustpilot_slider_krNiDR": {
+      "type": "trustpilot-slider",
+      "settings": {
+        "title-1": "Klantenservice!",
+        "review-1": "Heel tevreden! Snel geholpen en paar dagen later lag het nieuwe pakket op de deurmat.",
+        "name-1": "Iris Peeters",
+        "title-2": "Super kwaliteit!",
+        "review-2": "Goede kwaliteit! Dit is zo'n winkel waar ik wel vaker terug ga komen.",
+        "name-2": "Mirjam Allinga",
+        "title-3": "Fijne stof",
+        "review-3": "Heel blij mee, de kleren zitten lekker en de stof is ook heerlijk!",
+        "name-3": "Noa Bakker",
+        "title-4": "Super!",
+        "review-4": "Super leuke kleding waar je je gewoon goed in voelt.",
+        "name-4": "Aisha Yahyaeli",
+        "title-5": "Leuk bedrijf!",
+        "review-5": "Hele fijne kleding en super geholpen. Fijne winkel om online te shoppen.",
+        "name-5": "Berber Dokken",
+        "title-6": "Levering was top!",
+        "review-6": "Snelle levering en goede kwaliteit, alles wat je zoekt in een webwinkel.",
+        "name-6": "Rina Wassenaar",
+        "title-7": "Te gek!",
+        "review-7": "Super chille kleren! 5 sterren!",
+        "name-7": "Ranah Hilly",
+        "title-8": "Goed!",
+        "review-8": "Tevreden met het hele proces, van bestelling tot levering, alles ging goed!",
+        "name-8": "Jannie de Vries",
+        "title-9": "Betrouwbaar.",
+        "review-9": "Betrouwbaarheid vind ik altijd één van de belangrijkste dingen. Super fijn!",
+        "name-9": "Joke Herder"
+      }
+    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
@@ -450,6 +482,7 @@
         "testimonials-2",
         "testimonial_wBJRtg"
       ],
+      "disabled": true,
       "settings": {
         "title": "12.237+ TEVREDEN KLANTEN",
         "align_text": "center",
@@ -738,38 +771,6 @@
         "parallax_direction": "top",
         "lazyload_images": true
       }
-    },
-    "trustpilot_slider_krNiDR": {
-      "type": "trustpilot-slider",
-      "settings": {
-        "title-1": "Klantenservice!",
-        "review-1": "Heel tevreden! Snel geholpen en paar dagen later lag het nieuwe pakket op de deurmat.",
-        "name-1": "Iris Peeters",
-        "title-2": "Super kwaliteit!",
-        "review-2": "Goede kwaliteit! Dit is zo'n winkel waar ik wel vaker terug ga komen.",
-        "name-2": "Mirjam Allinga",
-        "title-3": "Fijne stof",
-        "review-3": "Heel blij mee, de kleren zitten lekker en de stof is ook heerlijk!",
-        "name-3": "Noa Bakker",
-        "title-4": "Super!",
-        "review-4": "Super leuke kleding waar je je gewoon goed in voelt.",
-        "name-4": "Aisha Yahyaeli",
-        "title-5": "Leuk bedrijf!",
-        "review-5": "Hele fijne kleding en super geholpen. Fijne winkel om online te shoppen.",
-        "name-5": "Berber Dokken",
-        "title-6": "Levering was top!",
-        "review-6": "Snelle levering en goede kwaliteit, alles wat je zoekt in een webwinkel.",
-        "name-6": "Rina Wassenaar",
-        "title-7": "Te gek!",
-        "review-7": "Super chille kleren! 5 sterren!",
-        "name-7": "Ranah Hilly",
-        "title-8": "Goed!",
-        "review-8": "Tevreden met het hele proces, van bestelling tot levering, alles ging goed!",
-        "name-8": "Jannie de Vries",
-        "title-9": "Betrouwbaar.",
-        "review-9": "Betrouwbaarheid vind ik altijd één van de belangrijkste dingen. Super fijn!",
-        "name-9": "Joke Herder"
-      }
     }
   },
   "order": [
@@ -781,6 +782,7 @@
     "sub",
     "text-and-image2",
     "text_and_image_GYtEN9",
+    "trustpilot_slider_krNiDR",
     "testimonials",
     "product-recommendations",
     "recently-viewed",
@@ -793,7 +795,6 @@
     "b7056d86-a266-4828-b833-1cfb3c043a2e",
     "alireviews-section-0c803c51-d08e-4ab8-8d02-592693af8e0d",
     "b2122939-4ef2-4f2b-8682-cfc84e403780",
-    "background_image_text_kyTqpU",
-    "trustpilot_slider_krNiDR"
+    "background_image_text_kyTqpU"
   ]
 }
