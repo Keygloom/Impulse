@@ -50,13 +50,6 @@
             "code": "<style>\n.blinking-dot circle {\n  animation: blink 2s infinite;\n}\n\n@keyframes blink {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: 0.3;\n  }\n}\n\n\n</style>\n<div style=\"margin-bottom:-20px;\" class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n  <svg style=\"\n    margin-right: 7px; margin-left:5px;\n\" class=\"blinking-dot\" width=\"20\" height=\"15\" aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgb(255, 0, 0)\"></circle>\n  </svg>\n  Nog een paar items op voorraad\n</div>"
           }
         },
-        "sales_point": {
-          "type": "sales_point",
-          "settings": {
-            "icon": "truck",
-            "text": "Gratis verzending"
-          }
-        },
         "57bb83ff-5707-44e2-890a-b99b17e9d787": {
           "type": "sales_point",
           "settings": {
@@ -64,11 +57,18 @@
             "text": "60 dagen retourgarantie"
           }
         },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Gratis verzending"
+          }
+        },
         "b801b248-619b-4251-9575-12d9e4cdaca0": {
           "type": "sales_point",
           "settings": {
-            "icon": "shield",
-            "text": "Veilig betalen met elke bank"
+            "icon": "package",
+            "text": "Voor 23:59 - morgen verzonden"
           }
         },
         "9138406b-8d13-4499-973b-b70daca3a994": {
@@ -219,8 +219,8 @@
         "price",
         "1d232ef7-95ed-4df2-bc2a-0227ec416065",
         "custom_QpJD9c",
-        "sales_point",
         "57bb83ff-5707-44e2-890a-b99b17e9d787",
+        "sales_point",
         "b801b248-619b-4251-9575-12d9e4cdaca0",
         "9138406b-8d13-4499-973b-b70daca3a994",
         "quantity_selector_PAVEYd",
