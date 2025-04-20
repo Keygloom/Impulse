@@ -15,8 +15,8 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "top_subheading": "TOT 60% KORTING",
-            "title": "LENTE KORTING",
+            "top_subheading": "SLUITINGSVERKOOP",
+            "title": "TOT 75%\nKORTING",
             "title_size": 80,
             "subheading": "",
             "link": "shopify://collections/bestsellers-dames",
@@ -110,7 +110,7 @@
     "scrolling_text_i6QHr4": {
       "type": "scrolling-text",
       "settings": {
-        "text": "LENTEKORTING - TOT 60% KORTING",
+        "text": "SLUITINGSVERKOOP - TOT 75% KORTING",
         "link": "",
         "text_size": 20,
         "text_spacing": true,
