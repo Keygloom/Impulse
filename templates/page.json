@@ -32,6 +32,22 @@
             "focal_point": "center center"
           }
         },
+        "collection_e44MKp": {
+          "type": "collection",
+          "settings": {
+            "collection": "truien-en-shirts",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection_DiBYrf": {
+          "type": "collection",
+          "settings": {
+            "collection": "jassen",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
         "collection_XBmTyD": {
           "type": "collection",
           "settings": {
@@ -52,6 +68,8 @@
       "block_order": [
         "collection_y6tTi4",
         "collection_MzJe7N",
+        "collection_e44MKp",
+        "collection_DiBYrf",
         "collection_XBmTyD",
         "collection_hnEXYq"
       ],
