@@ -63,6 +63,14 @@
             "title": "",
             "focal_point": "center center"
           }
+        },
+        "collection_wNRDLb": {
+          "type": "collection",
+          "settings": {
+            "collection": "strandkleding",
+            "title": "",
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
@@ -71,7 +79,8 @@
         "collection_e44MKp",
         "collection_DiBYrf",
         "collection_XBmTyD",
-        "collection_hnEXYq"
+        "collection_hnEXYq",
+        "collection_wNRDLb"
       ],
       "settings": {
         "title": "",
